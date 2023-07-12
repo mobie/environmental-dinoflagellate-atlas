@@ -1,0 +1,5 @@
+*.n5/
+*.zarr/
+tmp*/
+__pycache__/
+.idea/
