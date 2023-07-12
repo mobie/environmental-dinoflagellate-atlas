@@ -1,0 +1,1796 @@
+{
+  "is2D": false,
+  "sources": {
+    "VSM21_A5_PM3_001": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_001.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_002": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_002.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_003": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_003.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_004": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_004.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_005": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_005.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_006": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_006.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_007": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_007.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_008": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_008.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_009": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_009.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_010": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_010.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_011": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_011.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_012": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_012.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_013": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_013.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_014": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_014.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_015": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_015.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_016": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_016.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_017": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_017.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_018": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_018.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_019": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_019.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_020": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_020.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_021": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_021.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_022": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_022.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_023": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_023.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_024": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_024.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_025": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_025.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_026": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_026.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_027": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_027.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_028": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_028.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_029": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_029.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_030": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_030.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_031": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_031.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_032": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_032.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_033": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_033.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_034": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_034.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_035": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_035.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_036": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_036.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_037": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_037.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_038": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_038.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_039": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_039.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_040": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_040.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_041": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_041.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_042": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_042.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_043": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_043.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_044": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_044.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_045": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_045.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_046": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_046.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_047": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_047.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_048": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_048.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_049": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_049.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_050": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_050.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_051": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_051.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_052": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_052.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_053": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_053.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_054": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_054.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_055": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_055.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_056": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_056.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_057": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_057.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_058": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_058.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_059": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_059.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_060": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_060.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM21_A5_PM3_061": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM21_A5_PM3_061.ome.zarr"
+          }
+        }
+      }
+    }
+  },
+  "views": {
+    "VSM21_A5_PM3_001": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_001",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_001"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_002": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_002",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_002"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_003": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_003",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_003"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_004": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_004",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_004"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_005": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_005",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_005"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_006": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_006",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_006"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_007": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_007",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_007"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_008": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_008",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_008"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_009": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_009",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_009"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_010": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_010",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_010"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_011": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_011",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_011"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_012": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_012",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_012"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_013": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_013",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_013"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_014": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_014",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_014"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_015": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_015",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_015"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_016": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_016",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_016"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_017": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_017",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_017"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_018": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_018",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_018"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_019": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_019",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_019"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_020": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_020",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_020"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_021": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_021",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_021"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_022": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_022",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_022"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_023": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_023",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_023"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_024": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_024",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_024"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_025": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_025",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_025"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_026": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_026",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_026"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_027": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_027",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_027"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_028": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_028",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_028"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_029": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_029",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_029"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_030": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_030",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_030"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_031": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_031",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_031"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_032": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_032",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_032"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_033": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_033",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_033"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_034": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_034",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_034"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_035": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_035",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_035"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_036": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_036",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_036"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_037": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_037",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_037"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_038": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_038",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_038"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_039": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_039",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_039"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_040": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_040",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_040"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_041": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_041",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_041"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_042": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_042",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_042"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_043": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_043",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_043"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_044": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_044",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_044"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_045": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_045",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_045"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_046": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_046",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_046"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_047": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_047",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_047"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_048": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_048",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_048"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_049": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_049",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_049"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_050": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_050",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_050"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_051": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_051",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_051"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_052": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_052",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_052"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_053": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_053",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_053"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_054": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_054",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_054"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_055": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_055",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_055"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_056": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_056",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_056"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_057": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_057",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_057"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_058": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_058",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_058"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_059": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_059",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_059"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_060": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_060",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_060"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM21_A5_PM3_061": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_061",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_061"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "default": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM21_A5_PM3_004",
+            "opacity": 1.0,
+            "sources": [
+              "VSM21_A5_PM3_004"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    }
+  }
+}
