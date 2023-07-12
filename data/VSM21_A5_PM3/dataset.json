@@ -1,5 +1,5 @@
 {
-  "is2D": false,
+  "is2D": true,
   "sources": {
     "VSM21_A5_PM3_001": {
       "image": {
@@ -553,7 +553,7 @@
   },
   "views": {
     "VSM21_A5_PM3_001": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -573,7 +573,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_002": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -593,7 +593,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_003": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -613,7 +613,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_004": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -633,7 +633,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_005": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -653,7 +653,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_006": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -673,7 +673,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_007": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -693,7 +693,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_008": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -713,7 +713,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_009": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -733,7 +733,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_010": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -753,7 +753,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_011": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -773,7 +773,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_012": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -793,7 +793,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_013": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -813,7 +813,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_014": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -833,7 +833,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_015": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -853,7 +853,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_016": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -873,7 +873,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_017": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -893,7 +893,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_018": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -913,7 +913,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_019": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -933,7 +933,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_020": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -953,7 +953,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_021": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -973,7 +973,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_022": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -993,7 +993,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_023": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1013,7 +1013,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_024": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1033,7 +1033,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_025": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1053,7 +1053,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_026": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1073,7 +1073,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_027": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1093,7 +1093,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_028": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1113,7 +1113,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_029": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1133,7 +1133,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_030": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1153,7 +1153,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_031": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1173,7 +1173,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_032": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1193,7 +1193,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_033": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1213,7 +1213,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_034": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1233,7 +1233,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_035": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1253,7 +1253,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_036": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1273,7 +1273,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_037": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1293,7 +1293,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_038": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1313,7 +1313,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_039": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1333,7 +1333,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_040": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1353,7 +1353,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_041": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1373,7 +1373,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_042": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1393,7 +1393,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_043": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1413,7 +1413,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_044": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1433,7 +1433,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_045": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1453,7 +1453,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_046": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1473,7 +1473,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_047": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1493,7 +1493,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_048": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1513,7 +1513,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_049": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1533,7 +1533,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_050": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1553,7 +1553,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_051": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1573,7 +1573,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_052": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1593,7 +1593,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_053": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1613,7 +1613,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_054": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1633,7 +1633,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_055": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1653,7 +1653,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_056": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1673,7 +1673,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_057": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1693,7 +1693,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_058": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1713,7 +1713,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_059": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1733,7 +1733,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_060": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1753,7 +1753,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM21_A5_PM3_061": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1773,7 +1773,7 @@
       "uiSelectionGroup": "EM"
     },
     "default": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
