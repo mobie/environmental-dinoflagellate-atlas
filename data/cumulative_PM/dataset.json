@@ -5194,7 +5194,7 @@
             "colorByColumn": "8_Starch",
             "valueLimits": [
               0,
-              44
+              5
             ],
             "lut": "blueWhiteRed",
             "name": "boxes",

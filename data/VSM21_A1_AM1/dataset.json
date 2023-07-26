@@ -662,7 +662,7 @@
           "regionDisplay": {
             "boundaryThickness": 1100,
             "colorByColumn": "8_Starch",
-            "valueLimits": [0,55],
+            "valueLimits": [0,5],
             "lut": "blueWhiteRed",
             "name": "boxes",
             "opacity": 1.0,

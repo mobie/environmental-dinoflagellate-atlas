@@ -1,4 +1,4 @@
-region_id	0_ID	1_Outer_cell_layer(nm)	2_Nucleus	3_Trichocysts	4_Chloroplast	5_Plastoglobuli	6_Pusule	7_Food_vacuole	8_starch	9_Crystalline_compartment	10_Large_vacuole	11_CBB/flagella	12_Symbiosis/parasitism/Prey/2=Kleptoplastidism	13_Reticulated_network	14_Electron_dense_sheets	15_Tubular_network	16_Rhabdosomes_and_alike_structure	17_eyespot/mt_array	19_Presumed_ID	18_NI_a_z	20_Area(nm^2)
+region_id	0_ID	1_Outer_cell_layer(nm)	2_Nucleus	3_Trichocysts	4_Chloroplast	5_Plastoglobuli	6_Pusule	7_Food_vacuole	8_Starch	9_Crystalline_compartment	10_Large_vacuole	11_CBB/flagella	12_Symbiosis/parasitism/Prey/2=Kleptoplastidism	13_Reticulated_network	14_Electron_dense_sheets	15_Tubular_network	16_Rhabdosomes_and_alike_structure	17_eyespot/mt_array	19_Presumed_ID	18_NI_a_z	20_Area(nm^2)
 0	VSM21_A6_AM3_001	1316	0	1	0	0	1	0	13	0	1	0	0	0	0	1	0	1	x	x	610285700143
 1	VSM21_A6_AM3_002	865	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	Protoperidinium	x	349073971713
 2	VSM21_A6_AM3_003	402	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	x	x	309112144731
