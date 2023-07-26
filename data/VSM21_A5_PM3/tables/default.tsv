@@ -1,4 +1,4 @@
-egion_id	0_ID	1_Outer_cell_layer(nm)	2_Nucleus	3_Trichocysts	4_Chloroplast	5_Plastoglobuli	6_Pusule	7_Food_vacuole	8_Starch	9_Crystalline_compartment	10_Large_vacuole	11_CBB/flagella	12_Symbiosis/parasitism/Prey/2=Kleptoplastidism	13_Reticulated_network	14_Electron_dense_sheets	15_Tubular_network	16_Rhabdosomes_and_alike_structure	17_eyespot/mt_array	19_Presumed_ID	18_NI_a_z	20_Area(nm^2)
+region_id	0_ID	1_Outer_cell_layer(nm)	2_Nucleus	3_Trichocysts	4_Chloroplast	5_Plastoglobuli	6_Pusule	7_Food_vacuole	8_Starch	9_Crystalline_compartment	10_Large_vacuole	11_CBB/flagella	12_Symbiosis/parasitism/Prey/2=Kleptoplastidism	13_Reticulated_network	14_Electron_dense_sheets	15_Tubular_network	16_Rhabdosomes_and_alike_structure	17_eyespot/mt_array	19_Presumed_ID	18_NI_a_z	20_Area(nm^2)
 0	VSM21_A5_PM3_001	1502	0	0	1	7	0	0	0	0	0	0	0	0	0	0	0	0	reco_2	i	60933024781
 1	VSM21_A5_PM3_002	1286	1	0	1	1	0	0	1	0	1	0	0	0	0	0	0	0	Cyst	x	67379704396
 2	VSM21_A5_PM3_003	31	1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	x	x	158526423221
