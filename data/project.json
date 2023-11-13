@@ -7,7 +7,10 @@
     "VSM21_A5_PM3",
     "VSM21_A6_AM3",
     "cumulative_AM",
-    "cumulative_PM"
+    "cumulative_PM",
+    "VSM20_A1_AM1",
+    "VSM20_A2_PM1",
+    "VSM20_A3_AM2"
   ],
   "defaultDataset": "VSM21_A1_AM1",
   "specVersion": "0.3.0"
