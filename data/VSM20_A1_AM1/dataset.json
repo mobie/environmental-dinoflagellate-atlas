@@ -82,6 +82,15 @@
         }
       }
     },
+    "VSM20_A1_AM1_010": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM20_A1_AM1_010.ome.zarr"
+          }
+        }
+      }
+    },
     "VSM20_A1_AM1_011": {
       "image": {
         "imageData": {
@@ -145,6 +154,15 @@
         }
       }
     },
+    "VSM20_A1_AM1_018": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM20_A1_AM1_018.ome.zarr"
+          }
+        }
+      }
+    },
     "VSM20_A1_AM1_019": {
       "image": {
         "imageData": {
@@ -159,6 +177,15 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_020.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM20_A1_AM1_021": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM20_A1_AM1_021.ome.zarr"
           }
         }
       }
@@ -294,6 +321,15 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_036.ome.zarr"
+          }
+        }
+      }
+    },
+    "VSM20_A1_AM1_037": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM20_A1_AM1_037.ome.zarr"
           }
         }
       }
@@ -1155,6 +1191,26 @@
       ],
       "uiSelectionGroup": "EM"
     },
+    "VSM20_A1_AM1_010": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A1_AM1_010",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A1_AM1_010"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
     "VSM20_A1_AM1_011": {
       "isExclusive": false,
       "sourceDisplays": [
@@ -1295,6 +1351,26 @@
       ],
       "uiSelectionGroup": "EM"
     },
+    "VSM20_A1_AM1_018": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A1_AM1_018",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A1_AM1_018"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
     "VSM20_A1_AM1_019": {
       "isExclusive": false,
       "sourceDisplays": [
@@ -1329,6 +1405,26 @@
             "opacity": 1.0,
             "sources": [
               "VSM20_A1_AM1_020"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM20_A1_AM1_021": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A1_AM1_021",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A1_AM1_021"
             ]
           }
         }
@@ -1629,6 +1725,26 @@
             "opacity": 1.0,
             "sources": [
               "VSM20_A1_AM1_036"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM20_A1_AM1_037": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A1_AM1_037",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A1_AM1_037"
             ]
           }
         }

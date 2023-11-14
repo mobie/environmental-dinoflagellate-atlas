@@ -667,6 +667,15 @@
         }
       }
     },
+    "VSM20_A4_PM2_075": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/VSM20_A4_PM2_075.ome.zarr"
+          }
+        }
+      }
+    },
     "VSM20_A4_PM2_076": {
       "image": {
         "imageData": {
@@ -2224,6 +2233,26 @@
             "opacity": 1.0,
             "sources": [
               "VSM20_A4_PM2_074"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "EM"
+    },
+    "VSM20_A4_PM2_075": {
+      "isExclusive": false,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A4_PM2_075",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A4_PM2_075"
             ]
           }
         }
