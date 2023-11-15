@@ -6,6 +6,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_001.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_001.ome.zarr"
           }
         }
       }
@@ -15,6 +18,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_002.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_002.ome.zarr"
           }
         }
       }
@@ -24,6 +30,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_003.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_003.ome.zarr"
           }
         }
       }
@@ -33,6 +42,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_004.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_004.ome.zarr"
           }
         }
       }
@@ -42,6 +54,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_005.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_005.ome.zarr"
           }
         }
       }
@@ -51,6 +66,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_006.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_006.ome.zarr"
           }
         }
       }
@@ -60,6 +78,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_007.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_007.ome.zarr"
           }
         }
       }
@@ -69,6 +90,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_008.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_008.ome.zarr"
           }
         }
       }
@@ -78,6 +102,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_009.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_009.ome.zarr"
           }
         }
       }
@@ -87,6 +114,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_010.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_010.ome.zarr"
           }
         }
       }
@@ -96,6 +126,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_011.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_011.ome.zarr"
           }
         }
       }
@@ -105,6 +138,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_012.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_012.ome.zarr"
           }
         }
       }
@@ -114,6 +150,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_013.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_013.ome.zarr"
           }
         }
       }
@@ -123,6 +162,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_014.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_014.ome.zarr"
           }
         }
       }
@@ -132,6 +174,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_015.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_015.ome.zarr"
           }
         }
       }
@@ -141,6 +186,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_016.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_016.ome.zarr"
           }
         }
       }
@@ -150,6 +198,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_017.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_017.ome.zarr"
           }
         }
       }
@@ -159,6 +210,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_018.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_018.ome.zarr"
           }
         }
       }
@@ -168,6 +222,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_019.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_019.ome.zarr"
           }
         }
       }
@@ -177,6 +234,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_020.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_020.ome.zarr"
           }
         }
       }
@@ -186,6 +246,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_021.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_021.ome.zarr"
           }
         }
       }
@@ -195,6 +258,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_022.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_022.ome.zarr"
           }
         }
       }
@@ -204,6 +270,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_023.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_023.ome.zarr"
           }
         }
       }
@@ -213,6 +282,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_024.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_024.ome.zarr"
           }
         }
       }
@@ -222,6 +294,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_025.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_025.ome.zarr"
           }
         }
       }
@@ -231,6 +306,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_026.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_026.ome.zarr"
           }
         }
       }
@@ -240,6 +318,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_027.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_027.ome.zarr"
           }
         }
       }
@@ -249,6 +330,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_028.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_028.ome.zarr"
           }
         }
       }
@@ -258,6 +342,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_029.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_029.ome.zarr"
           }
         }
       }
@@ -267,6 +354,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_030.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_030.ome.zarr"
           }
         }
       }
@@ -276,6 +366,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_031.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_031.ome.zarr"
           }
         }
       }
@@ -285,6 +378,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_032.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_032.ome.zarr"
           }
         }
       }
@@ -294,6 +390,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_033.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_033.ome.zarr"
           }
         }
       }
@@ -303,6 +402,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_034.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_034.ome.zarr"
           }
         }
       }
@@ -312,6 +414,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_035.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_035.ome.zarr"
           }
         }
       }
@@ -321,6 +426,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_036.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_036.ome.zarr"
           }
         }
       }
@@ -330,6 +438,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_037.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_037.ome.zarr"
           }
         }
       }
@@ -339,6 +450,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_038.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_038.ome.zarr"
           }
         }
       }
@@ -348,6 +462,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_039.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_039.ome.zarr"
           }
         }
       }
@@ -357,6 +474,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_040.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_040.ome.zarr"
           }
         }
       }
@@ -366,6 +486,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_041.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_041.ome.zarr"
           }
         }
       }
@@ -375,6 +498,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_042.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_042.ome.zarr"
           }
         }
       }
@@ -384,6 +510,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_043.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_043.ome.zarr"
           }
         }
       }
@@ -393,6 +522,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_044.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_044.ome.zarr"
           }
         }
       }
@@ -402,6 +534,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_045.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_045.ome.zarr"
           }
         }
       }
@@ -411,6 +546,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_046.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_046.ome.zarr"
           }
         }
       }
@@ -420,6 +558,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_047.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_047.ome.zarr"
           }
         }
       }
@@ -429,6 +570,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_048.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_048.ome.zarr"
           }
         }
       }
@@ -438,6 +582,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_049.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_049.ome.zarr"
           }
         }
       }
@@ -447,6 +594,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_050.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_050.ome.zarr"
           }
         }
       }
@@ -456,6 +606,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_051.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_051.ome.zarr"
           }
         }
       }
@@ -465,6 +618,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_052.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_052.ome.zarr"
           }
         }
       }
@@ -474,6 +630,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_053.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_053.ome.zarr"
           }
         }
       }
@@ -483,6 +642,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_054.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_054.ome.zarr"
           }
         }
       }
@@ -492,6 +654,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_055.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_055.ome.zarr"
           }
         }
       }
@@ -501,6 +666,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_056.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_056.ome.zarr"
           }
         }
       }
@@ -510,6 +678,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_057.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_057.ome.zarr"
           }
         }
       }
@@ -519,6 +690,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_058.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_058.ome.zarr"
           }
         }
       }
@@ -528,6 +702,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_059.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_059.ome.zarr"
           }
         }
       }
@@ -537,6 +714,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_060.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_060.ome.zarr"
           }
         }
       }
@@ -546,6 +726,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_061.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_061.ome.zarr"
           }
         }
       }
@@ -555,6 +738,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_062.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_062.ome.zarr"
           }
         }
       }
@@ -564,6 +750,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_063.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_063.ome.zarr"
           }
         }
       }
@@ -573,6 +762,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_064.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_064.ome.zarr"
           }
         }
       }
@@ -582,6 +774,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_065.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_065.ome.zarr"
           }
         }
       }
@@ -591,6 +786,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_066.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_066.ome.zarr"
           }
         }
       }
@@ -600,6 +798,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_067.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_067.ome.zarr"
           }
         }
       }
@@ -609,6 +810,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_068.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_068.ome.zarr"
           }
         }
       }
@@ -618,6 +822,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_069.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_069.ome.zarr"
           }
         }
       }
@@ -627,6 +834,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_070.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_070.ome.zarr"
           }
         }
       }
@@ -636,6 +846,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_071.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_071.ome.zarr"
           }
         }
       }
@@ -645,6 +858,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_072.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_072.ome.zarr"
           }
         }
       }
@@ -654,6 +870,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_073.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_073.ome.zarr"
           }
         }
       }
@@ -663,6 +882,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_074.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_074.ome.zarr"
           }
         }
       }
@@ -672,6 +894,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_075.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_075.ome.zarr"
           }
         }
       }
@@ -681,6 +906,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_076.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_076.ome.zarr"
           }
         }
       }
@@ -690,6 +918,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_077.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_077.ome.zarr"
           }
         }
       }
@@ -699,6 +930,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_078.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_078.ome.zarr"
           }
         }
       }
@@ -708,6 +942,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_079.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_079.ome.zarr"
           }
         }
       }
@@ -717,6 +954,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_080.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_080.ome.zarr"
           }
         }
       }
@@ -726,6 +966,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_081.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_081.ome.zarr"
           }
         }
       }
@@ -735,6 +978,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_082.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_082.ome.zarr"
           }
         }
       }
@@ -744,6 +990,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_083.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_083.ome.zarr"
           }
         }
       }
@@ -753,6 +1002,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_084.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_084.ome.zarr"
           }
         }
       }
@@ -762,6 +1014,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_085.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_085.ome.zarr"
           }
         }
       }
@@ -771,6 +1026,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_086.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_086.ome.zarr"
           }
         }
       }
@@ -780,6 +1038,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_087.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_087.ome.zarr"
           }
         }
       }
@@ -789,6 +1050,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_088.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_088.ome.zarr"
           }
         }
       }
@@ -798,6 +1062,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_089.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_089.ome.zarr"
           }
         }
       }
@@ -807,6 +1074,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_090.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_090.ome.zarr"
           }
         }
       }
@@ -816,6 +1086,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_091.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_091.ome.zarr"
           }
         }
       }
@@ -825,6 +1098,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_092.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_092.ome.zarr"
           }
         }
       }
@@ -834,6 +1110,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_093.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_093.ome.zarr"
           }
         }
       }
@@ -843,6 +1122,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_094.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_094.ome.zarr"
           }
         }
       }
@@ -852,6 +1134,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_095.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_095.ome.zarr"
           }
         }
       }
@@ -861,6 +1146,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_096.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_096.ome.zarr"
           }
         }
       }
@@ -870,6 +1158,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_097.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_097.ome.zarr"
           }
         }
       }
@@ -879,6 +1170,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_098.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_098.ome.zarr"
           }
         }
       }
@@ -888,6 +1182,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_099.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_099.ome.zarr"
           }
         }
       }
@@ -897,6 +1194,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_100.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_100.ome.zarr"
           }
         }
       }
@@ -906,6 +1206,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_101.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_101.ome.zarr"
           }
         }
       }
@@ -915,6 +1218,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_102.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_102.ome.zarr"
           }
         }
       }
@@ -924,6 +1230,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_103.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_103.ome.zarr"
           }
         }
       }
@@ -933,6 +1242,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_104.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_104.ome.zarr"
           }
         }
       }
@@ -942,6 +1254,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_105.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_105.ome.zarr"
           }
         }
       }
@@ -951,6 +1266,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_106.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_106.ome.zarr"
           }
         }
       }
@@ -960,6 +1278,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_107.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_107.ome.zarr"
           }
         }
       }
@@ -969,6 +1290,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_108.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_108.ome.zarr"
           }
         }
       }
@@ -978,6 +1302,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_109.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_109.ome.zarr"
           }
         }
       }
@@ -987,6 +1314,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_110.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_110.ome.zarr"
           }
         }
       }
@@ -996,6 +1326,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_111.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_111.ome.zarr"
           }
         }
       }
@@ -1005,6 +1338,9 @@
         "imageData": {
           "ome.zarr": {
             "relativePath": "images/ome-zarr/VSM20_A1_AM1_112.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/dinoflagellate-atlas/VSM20_A1_AM1/images/ome-zarr/VSM20_A1_AM1_112.ome.zarr"
           }
         }
       }
