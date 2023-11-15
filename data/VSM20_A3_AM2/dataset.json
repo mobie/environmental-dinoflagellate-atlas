@@ -228,6 +228,133 @@
     }
   },
   "views": {
+    "VSM20_A3_AM2": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "white",
+            "contrastLimits": [
+              0,
+              65535
+            ],
+            "name": "VSM20_A3_AM2_images",
+            "opacity": 1.0,
+            "sources": [
+              "VSM20_A3_AM2_001",
+              "VSM20_A3_AM2_002",
+              "VSM20_A3_AM2_003",
+              "VSM20_A3_AM2_004",
+              "VSM20_A3_AM2_005",
+              "VSM20_A3_AM2_006",
+              "VSM20_A3_AM2_007",
+              "VSM20_A3_AM2_008",
+              "VSM20_A3_AM2_009",
+              "VSM20_A3_AM2_010",
+              "VSM20_A3_AM2_011",
+              "VSM20_A3_AM2_012",
+              "VSM20_A3_AM2_013",
+              "VSM20_A3_AM2_014",
+              "VSM20_A3_AM2_015",
+              "VSM20_A3_AM2_016",
+              "VSM20_A3_AM2_017",
+              "VSM20_A3_AM2_018",
+              "VSM20_A3_AM2_019",
+              "VSM20_A3_AM2_020",
+              "VSM20_A3_AM2_021",
+              "VSM20_A3_AM2_022",
+              "VSM20_A3_AM2_023",
+              "VSM20_A3_AM2_024",
+              "VSM20_A3_AM2_025"
+            ]
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "transformedGrid": {
+            "nestedSources": [
+              [
+                "VSM20_A3_AM2_001"
+              ],
+              [
+                "VSM20_A3_AM2_002"
+              ],
+              [
+                "VSM20_A3_AM2_003"
+              ],
+              [
+                "VSM20_A3_AM2_004"
+              ],
+              [
+                "VSM20_A3_AM2_005"
+              ],
+              [
+                "VSM20_A3_AM2_006"
+              ],
+              [
+                "VSM20_A3_AM2_007"
+              ],
+              [
+                "VSM20_A3_AM2_008"
+              ],
+              [
+                "VSM20_A3_AM2_009"
+              ],
+              [
+                "VSM20_A3_AM2_010"
+              ],
+              [
+                "VSM20_A3_AM2_011"
+              ],
+              [
+                "VSM20_A3_AM2_012"
+              ],
+              [
+                "VSM20_A3_AM2_013"
+              ],
+              [
+                "VSM20_A3_AM2_014"
+              ],
+              [
+                "VSM20_A3_AM2_015"
+              ],
+              [
+                "VSM20_A3_AM2_016"
+              ],
+              [
+                "VSM20_A3_AM2_017"
+              ],
+              [
+                "VSM20_A3_AM2_018"
+              ],
+              [
+                "VSM20_A3_AM2_019"
+              ],
+              [
+                "VSM20_A3_AM2_020"
+              ],
+              [
+                "VSM20_A3_AM2_021"
+              ],
+              [
+                "VSM20_A3_AM2_022"
+              ],
+              [
+                "VSM20_A3_AM2_023"
+              ],
+              [
+                "VSM20_A3_AM2_024"
+              ],
+              [
+                "VSM20_A3_AM2_025"
+              ]
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "sampling_grid"
+    },
     "VSM20_A3_AM2_001": {
       "isExclusive": true,
       "sourceDisplays": [

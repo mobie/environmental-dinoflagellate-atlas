@@ -3,7 +3,7 @@ import os
 
 root = 'data'
 
-datasets = ['VSM20_A1_AM1', 'VSM20_A2_PM1', 'VSM20_A3_AM2', 'VSM20_A4_PM2', 'VSM20_A5_PM3', 'VSM20_A6_AM3']
+datasets = ['VSM20_A1_AM1', 'VSM20_A2_PM1', 'VSM20_A3_AM2', 'VSM20_A4_PM2', 'VSM20_A5_AM3', 'VSM20_A6_PM3']
 
 for dataset in datasets:
     dataset_folder = os.path.join(root,dataset)
