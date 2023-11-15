@@ -7499,26 +7499,6 @@
         }
       ],
       "uiSelectionGroup": "grid"
-    },
-    
-      "isExclusive": true,
-      "sourceDisplays": [
-        {
-          "imageDisplay": {
-            "color": "white",
-            "contrastLimits": [
-              0,
-              65535
-            ],
-            "name": "VSM21_A2_PM1_042",
-            "opacity": 1.0,
-            "sources": [
-              "VSM21_A2_PM1_042"
-            ]
-          }
-        }
-      ],
-      "uiSelectionGroup": "bookmark"
     }
   }
 }

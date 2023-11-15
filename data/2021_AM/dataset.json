@@ -8877,26 +8877,6 @@
         }
       ],
       "uiSelectionGroup": "grid"
-    },
-    
-      "isExclusive": true,
-      "sourceDisplays": [
-        {
-          "imageDisplay": {
-            "color": "white",
-            "contrastLimits": [
-              0,
-              65535
-            ],
-            "name": "complete_grid",
-            "opacity": 1.0,
-            "sources": [
-              "VSM21_A1_AM1_018"
-            ]
-          }
-        }
-      ],
-      "uiSelectionGroup": "bookmark"
     }
   }
 }
