@@ -697,7 +697,7 @@
   },
   "views": {
     "VSM20_A2_PM1_001": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -717,7 +717,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_002": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -737,7 +737,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_003": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -757,7 +757,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_004": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -777,7 +777,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_005": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -797,7 +797,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_006": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -817,7 +817,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_007": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -837,7 +837,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_008": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -857,7 +857,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_009": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -877,7 +877,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_010": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -897,7 +897,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_011": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -917,7 +917,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_012": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -937,7 +937,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_013": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -957,7 +957,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_014": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -977,7 +977,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_015": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -997,7 +997,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_016": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1017,7 +1017,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_017": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1037,7 +1037,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_018": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1057,7 +1057,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_019": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1077,7 +1077,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_020": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1097,7 +1097,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_021": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1117,7 +1117,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_022": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1137,7 +1137,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_023": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1157,7 +1157,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_024": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1177,7 +1177,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_025": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1197,7 +1197,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_026": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1217,7 +1217,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_027": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1237,7 +1237,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_028": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1257,7 +1257,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_029": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1277,7 +1277,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_030": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1297,7 +1297,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_031": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1317,7 +1317,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_032": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1337,7 +1337,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_033": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1357,7 +1357,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_034": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1377,7 +1377,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_035": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1397,7 +1397,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_036": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1417,7 +1417,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_037": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1437,7 +1437,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_038": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1457,7 +1457,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_039": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1477,7 +1477,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_040": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1497,7 +1497,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_041": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1517,7 +1517,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_042": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1537,7 +1537,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_043": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1557,7 +1557,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_044": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1577,7 +1577,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_045": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1597,7 +1597,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_046": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1617,7 +1617,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_047": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1637,7 +1637,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_048": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1657,7 +1657,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_049": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1677,7 +1677,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_050": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1697,7 +1697,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_051": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1717,7 +1717,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_052": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1737,7 +1737,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_053": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1757,7 +1757,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_054": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1777,7 +1777,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_055": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1797,7 +1797,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_056": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1817,7 +1817,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_057": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1837,7 +1837,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_058": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1857,7 +1857,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_059": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1877,7 +1877,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_060": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1897,7 +1897,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_061": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1917,7 +1917,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_062": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1937,7 +1937,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_063": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1957,7 +1957,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_064": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1977,7 +1977,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_065": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1997,7 +1997,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_066": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2017,7 +2017,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_067": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2037,7 +2037,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_068": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2057,7 +2057,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_069": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2077,7 +2077,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_070": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2097,7 +2097,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_071": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2117,7 +2117,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_072": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2137,7 +2137,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_073": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2157,7 +2157,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_074": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2177,7 +2177,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_075": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2197,7 +2197,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_076": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2217,7 +2217,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A2_PM1_077": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2237,7 +2237,7 @@
       "uiSelectionGroup": "EM"
     },
     "default": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2246,10 +2246,10 @@
               0,
               65535
             ],
-            "name": "VSM20_A2_PM1_050",
+            "name": "VSM20_A2_PM1_001",
             "opacity": 1.0,
             "sources": [
-              "VSM20_A2_PM1_050"
+              "VSM20_A2_PM1_001"
             ]
           }
         }

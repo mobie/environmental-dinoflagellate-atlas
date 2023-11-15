@@ -760,7 +760,7 @@
   },
   "views": {
     "VSM20_A4_PM2_001": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -780,7 +780,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_002": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -800,7 +800,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_003": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -820,7 +820,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_004": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -840,7 +840,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_005": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -860,7 +860,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_006": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -880,7 +880,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_007": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -900,7 +900,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_008": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -920,7 +920,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_009": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -940,7 +940,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_010": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -960,7 +960,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_011": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -980,7 +980,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_012": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1000,7 +1000,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_013": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1020,7 +1020,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_014": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1040,7 +1040,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_015": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1060,7 +1060,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_016": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1080,7 +1080,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_017": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1100,7 +1100,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_018": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1120,7 +1120,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_019": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1140,7 +1140,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_020": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1160,7 +1160,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_021": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1180,7 +1180,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_022": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1200,7 +1200,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_023": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1220,7 +1220,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_024": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1240,7 +1240,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_025": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1260,7 +1260,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_026": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1280,7 +1280,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_027": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1300,7 +1300,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_028": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1320,7 +1320,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_029": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1340,7 +1340,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_030": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1360,7 +1360,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_031": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1380,7 +1380,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_032": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1400,7 +1400,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_033": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1420,7 +1420,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_034": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1440,7 +1440,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_035": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1460,7 +1460,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_036": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1480,7 +1480,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_037": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1500,7 +1500,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_038": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1520,7 +1520,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_039": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1540,7 +1540,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_040": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1560,7 +1560,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_041": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1580,7 +1580,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_042": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1600,7 +1600,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_043": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1620,7 +1620,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_044": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1640,7 +1640,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_045": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1660,7 +1660,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_046": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1680,7 +1680,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_047": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1700,7 +1700,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_048": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1720,7 +1720,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_049": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1740,7 +1740,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_050": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1760,7 +1760,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_051": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1780,7 +1780,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_052": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1800,7 +1800,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_053": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1820,7 +1820,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_054": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1840,7 +1840,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_055": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1860,7 +1860,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_056": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1880,7 +1880,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_057": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1900,7 +1900,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_058": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1920,7 +1920,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_059": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1940,7 +1940,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_060": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1960,7 +1960,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_061": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -1980,7 +1980,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_062": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2000,7 +2000,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_063": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2020,7 +2020,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_064": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2040,7 +2040,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_065": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2060,7 +2060,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_066": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2080,7 +2080,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_067": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2100,7 +2100,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_068": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2120,7 +2120,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_069": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2140,7 +2140,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_070": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2160,7 +2160,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_071": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2180,7 +2180,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_072": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2200,7 +2200,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_073": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2220,7 +2220,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_074": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2240,7 +2240,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_075": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2260,7 +2260,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_076": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2280,7 +2280,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_077": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2300,7 +2300,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_078": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2320,7 +2320,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_079": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2340,7 +2340,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_080": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2360,7 +2360,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_081": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2380,7 +2380,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_082": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2400,7 +2400,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_083": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2420,7 +2420,7 @@
       "uiSelectionGroup": "EM"
     },
     "VSM20_A4_PM2_084": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2440,7 +2440,7 @@
       "uiSelectionGroup": "EM"
     },
     "default": {
-      "isExclusive": false,
+      "isExclusive": true,
       "sourceDisplays": [
         {
           "imageDisplay": {
@@ -2449,10 +2449,10 @@
               0,
               65535
             ],
-            "name": "VSM20_A4_PM2_010",
+            "name": "VSM20_A4_PM2_001",
             "opacity": 1.0,
             "sources": [
-              "VSM20_A4_PM2_010"
+              "VSM20_A4_PM2_001"
             ]
           }
         }
