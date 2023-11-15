@@ -2,12 +2,15 @@ import mobie
 import os
 
 root = 'data'
+filter = '_AM'
 
-for dataset in ['2020_AM', '2020_PM']:
+for dataset in ['all_years']:
     dataset_folder = os.path.join(root,dataset)
 
     ds = mobie.metadata.read_dataset_metadata(dataset_folder)
 
-    sources = [[source] for source in ds['sources'].keys()]
+    sources = [[source] for source in ds['sources'].keys() if filter in source ]
 
-    mobie.create_grid_view(dataset_folder, 'complete_grid', sources, menu_name='grid')
+    print('Creating grid view for sources ' + str(sources) +'.')
+    if len(sources) > 1: 
+        mobie.create_grid_view(dataset_folder, 'complete_grid', sources, menu_name='grid')
