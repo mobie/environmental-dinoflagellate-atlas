@@ -3,7 +3,7 @@ import os
 
 root = 'data'
 
-for dataset in ['cumulative_AM', 'cumulative_PM']:
+for dataset in ['2020_AM', '2020_PM']:
     dataset_folder = os.path.join(root,dataset)
 
     ds = mobie.metadata.read_dataset_metadata(dataset_folder)
