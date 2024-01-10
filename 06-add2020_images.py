@@ -7,7 +7,7 @@ datasets = ['VSM20_A1_AM1', 'VSM20_A2_PM1', 'VSM20_A3_AM2', 'VSM20_A4_PM2', 'VSM
 source_dirs = ['tifA1-vsm20_bc', 'tifA2-vsm20_bc', 'tifA3-vsm20_bc', 'tifA4-vsm20_bc', 'tifA5-vsm20_bc', 'tifA6-vsm20_bc']
 
 
-dsdata = list(zip(datasets, source_dirs))[5]
+dataset, source_dir = list(zip(datasets, source_dirs))[5]
 
 def add_tif(imfile):
     ds = mobie.metadata.read_dataset_metadata('./data/' + dataset)
