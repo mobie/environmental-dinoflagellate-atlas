@@ -1,6 +1,15 @@
 {
   "is2D": true,
   "sources": {
+    "AM_table": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/"
+          }
+        }
+      }
+    },
     "VSM20_A3_AM2_001": {
       "image": {
         "imageData": {
@@ -342,6 +351,76 @@
               "VSM20_A3_AM2_024",
               "VSM20_A3_AM2_025"
             ]
+          }
+        },
+        {
+          "regionDisplay": {
+            "boundaryThickness": 1100,
+            "colorByColumn": "8_Starch",
+            "lut": "blueWhiteRed",
+            "name": "boxes",
+            "opacity": 1.0,
+            "showAsBoundaries": true,
+            "showScatterPlot": false,
+            "showTable": true,
+            "sources": {
+              "1": ["VSM20_A5_AM3_001"],
+              "2": ["VSM20_A5_AM3_002"],
+              "3": ["VSM20_A5_AM3_003"],
+              "4": ["VSM20_A5_AM3_004"],
+              "5": ["VSM20_A5_AM3_005"],
+              "6": ["VSM20_A5_AM3_006"],
+              "7": ["VSM20_A5_AM3_007"],
+              "8": ["VSM20_A5_AM3_008"],
+              "9": ["VSM20_A5_AM3_009"],
+              "10": ["VSM20_A5_AM3_010"],
+              "11": ["VSM20_A5_AM3_011"],
+              "12": ["VSM20_A5_AM3_012"],
+              "13": ["VSM20_A5_AM3_013"],
+              "14": ["VSM20_A5_AM3_014"],
+              "15": ["VSM20_A5_AM3_015"],
+              "16": ["VSM20_A5_AM3_016"],
+              "17": ["VSM20_A5_AM3_017"],
+              "18": ["VSM20_A5_AM3_018"],
+              "19": ["VSM20_A5_AM3_019"],
+              "20": ["VSM20_A5_AM3_020"],
+              "21": ["VSM20_A5_AM3_021"],
+              "22": ["VSM20_A5_AM3_022"],
+              "23": ["VSM20_A5_AM3_023"],
+              "24": ["VSM20_A5_AM3_024"],
+              "25": ["VSM20_A5_AM3_025"],
+              "26": ["VSM20_A5_AM3_026"],
+              "27": ["VSM20_A5_AM3_027"],
+              "28": ["VSM20_A5_AM3_028"],
+              "29": ["VSM20_A5_AM3_029"],
+              "30": ["VSM20_A5_AM3_030"],
+              "31": ["VSM20_A5_AM3_031"],
+              "32": ["VSM20_A5_AM3_032"],
+              "33": ["VSM20_A5_AM3_033"],
+              "34": ["VSM20_A5_AM3_034"],
+              "35": ["VSM20_A5_AM3_035"],
+              "36": ["VSM20_A5_AM3_036"],
+              "37": ["VSM20_A5_AM3_037"],
+              "38": ["VSM20_A5_AM3_038"],
+              "39": ["VSM20_A5_AM3_039"],
+              "40": ["VSM20_A5_AM3_040"],
+              "41": ["VSM20_A5_AM3_041"],
+              "42": ["VSM20_A5_AM3_042"],
+              "43": ["VSM20_A5_AM3_043"],
+              "44": ["VSM20_A5_AM3_044"],
+              "45": ["VSM20_A5_AM3_045"],
+              "46": ["VSM20_A5_AM3_046"],
+              "47": ["VSM20_A5_AM3_047"],
+              "48": ["VSM20_A5_AM3_048"],
+              "49": ["VSM20_A5_AM3_049"],
+              "50": ["VSM20_A5_AM3_050"]
+            },
+            "tableSource": "AM_table",
+            "valueLimits": [
+              0,
+              5
+            ],
+            "visible": true
           }
         }
       ],

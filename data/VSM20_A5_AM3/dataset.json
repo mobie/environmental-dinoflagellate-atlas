@@ -1,6 +1,15 @@
 {
   "is2D": true,
   "sources": {
+    "AM_table": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/"
+          }
+        }
+      }
+    },
     "VSM20_A5_AM3_001": {
       "image": {
         "imageData": {
@@ -667,6 +676,51 @@
               "VSM20_A5_AM3_049",
               "VSM20_A5_AM3_050"
             ]
+          }
+        },
+        {
+          "regionDisplay": {
+            "boundaryThickness": 1100,
+            "colorByColumn": "8_Starch",
+            "lut": "blueWhiteRed",
+            "name": "boxes",
+            "opacity": 1.0,
+            "showAsBoundaries": true,
+            "showScatterPlot": false,
+            "showTable": true,
+            "sources": {
+              "1": ["VSM20_A3_AM2_001"],
+              "2": ["VSM20_A3_AM2_002"],
+              "3": ["VSM20_A3_AM2_003"],
+              "4": ["VSM20_A3_AM2_004"],
+              "5": ["VSM20_A3_AM2_005"],
+              "6": ["VSM20_A3_AM2_006"],
+              "7": ["VSM20_A3_AM2_007"],
+              "8": ["VSM20_A3_AM2_008"],
+              "9": ["VSM20_A3_AM2_009"],
+              "10": ["VSM20_A3_AM2_010"],
+              "11": ["VSM20_A3_AM2_011"],
+              "12": ["VSM20_A3_AM2_012"],
+              "13": ["VSM20_A3_AM2_013"],
+              "14": ["VSM20_A3_AM2_014"],
+              "15": ["VSM20_A3_AM2_015"],
+              "16": ["VSM20_A3_AM2_016"],
+              "17": ["VSM20_A3_AM2_017"],
+              "18": ["VSM20_A3_AM2_018"],
+              "19": ["VSM20_A3_AM2_019"],
+              "20": ["VSM20_A3_AM2_020"],
+              "21": ["VSM20_A3_AM2_021"],
+              "22": ["VSM20_A3_AM2_022"],
+              "23": ["VSM20_A3_AM2_023"],
+              "24": ["VSM20_A3_AM2_024"],
+              "25": ["VSM20_A3_AM2_025"]
+            },
+            "tableSource": "AM_table",
+            "valueLimits": [
+              0,
+              5
+            ],
+            "visible": true
           }
         }
       ],

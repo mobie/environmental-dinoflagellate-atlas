@@ -13,5 +13,9 @@
               ...
 ```
 
+`\s+V` -> `": ["V`
+
+`\n` -> `"],\n"`
+
 - add table source to dataset
 - add table `regionDisplay` to dataset

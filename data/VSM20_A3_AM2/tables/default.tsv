@@ -1,0 +1,26 @@
+region_id	0_ID	1_Outer_cell_layer(nm)	2_Nucleus	3_Trichocysts	4_Chloroplast	5_Plastoglobuli	6_Pusule	7_Food_vacuole	8_Starch	9_Crystalline_compartment	10_Large_vacuole	11_CBB/flagella	12_Symbiosis/parasitism/Prey/2=Kleptoplastidism	13_Reticulated_network	14_Electron_dense_sheets	15_Tubular_network	16_Rhabdosomes_and_alike_structure	17_eyespot/mt_array	19_Presumed_ID	18_NI_a_z	20_Area(nm^2)
+1	VSM20_A3_AM2_001		0	1	1	1	1	0	0	0	0	0	0	1	0	0	0	0	Triadinium_sphaericum_sp	r	143950000000
+2	VSM20_A3_AM2_002		0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	Corythodinium_sp	j	289940000000
+3	VSM20_A3_AM2_003		0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	NI	r	69493000000
+4	VSM20_A3_AM2_004		1	1	1	0	0	0	1	1	0	0	0	0	0	0	0	0	NI	x	70067000000
+5	VSM20_A3_AM2_005		0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Prorocentrum_sp	p	73307000000
+6	VSM20_A3_AM2_006		0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	NI	p	118020000000
+7	VSM20_A3_AM2_007		1	1	1	0	0	0	0	0	0	1	0	1	0	0	0	0	NI	m	389340000000
+8	VSM20_A3_AM2_008		1	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0	NI	x	145580000000
+9	VSM20_A3_AM2_009		1	1	0	0	0	0	0	1	0	0	0	1	1	0	0	0	NI	x	267890000000
+10	VSM20_A3_AM2_010		1	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	NI	r	66014000000
+11	VSM20_A3_AM2_011		1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	NI	x	503810000000
+12	VSM20_A3_AM2_012		0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	NI	r	24832000000
+13	VSM20_A3_AM2_013		0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Ciliate	x	0
+14	VSM20_A3_AM2_014		0	1	1	0	1	0	0	0	0	0	0	1	0	0	0	0	Podolompas_sp	r	271960000000
+15	VSM20_A3_AM2_015		0	0	0	0		0	0	0	0	0	0	0	0	0	0	0	Prymnesiophyceae	x	0
+16	VSM20_A3_AM2_016		1	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	Protoperidinium_sp	r	215840000000
+17	VSM20_A3_AM2_017		1	1	0	0	1	0	0	0	0	1	0	0	1	1	0	0	Protoperidinium_sp	x	238740000000
+18	VSM20_A3_AM2_018		0	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	NI	h,p,r	94895000000
+19	VSM20_A3_AM2_019		1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Colony	x	0
+20	VSM20_A3_AM2_020		1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	1	NI	r	334620000000
+21	VSM20_A3_AM2_021		1	1	0	0	1	0	0	0	0	0	0	1	1	1	0	0	Protoperidinium_sp	p	599920000000
+22	VSM20_A3_AM2_022		0	1	1	0		0	2	1	0	0	0	0	0	0	0	0	Prorocentrum_sp	r	152610000000
+23	VSM20_A3_AM2_023		0	1	1	0	0	0	16	0	1	0	0	1	0	0	0	0	Prorocentrum_sp	x	336900000000
+24	VSM20_A3_AM2_024		1	1	1	0	1	0	0	0	0	1	0	1	0	0	0	0	NI	x	189770000000
+25	VSM20_A3_AM2_025		0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	Corythodinium_sp	j	387580000000
